@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64f6c1d6.css",
+    "main.js": "/static/js/main.60adc762.js",
+    "static/js/453.2caaf3db.chunk.js": "/static/js/453.2caaf3db.chunk.js",
+    "static/media/banner_img.jpg": "/static/media/banner_img.e9d3b66927f902ff6d93.jpg",
+    "static/media/logo.png": "/static/media/logo.056a36d7deec463808d9.png",
+    "static/media/rohin-library.png": "/static/media/rohin-library.25dd7bc534b8369bbe9f.png",
+    "index.html": "/index.html",
+    "main.64f6c1d6.css.map": "/static/css/main.64f6c1d6.css.map",
+    "main.60adc762.js.map": "/static/js/main.60adc762.js.map",
+    "453.2caaf3db.chunk.js.map": "/static/js/453.2caaf3db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f6c1d6.css",
+    "static/js/main.60adc762.js"
+  ]
+}
